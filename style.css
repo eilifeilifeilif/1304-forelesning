@@ -135,12 +135,12 @@ body {padding-top: 70px;
 footer {
     width: 100%;
     padding: 5px;
-        background-color: green;
+        background-color: darkgreen;
         color:white;
     height: 50px;
         text-align: center;
 }
 
 @media only screen and (max-width: 570px) 
-{ .infografikk {content: url(bilder/infografikk/pollenfjes.png) } 
+{ .infografikk {content: url(bilder/infografikk/pollenfjes.JPG) } 
 }
